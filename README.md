@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Jorge</h1>
-<h3 align="center">I am currently a Front-end Development Intern at Banco do Nordeste do Brasil (BNB)</h3>
+<h3 align="center">I am currently a Front-end Developer Intern at Banco do Nordeste do Brasil and Computer Science Undergrad Student at Universidade de Fortaleza</h3>
 
 - 🔭 I’m currently working on **React Applications**
 
