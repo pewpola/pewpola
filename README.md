@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Jorge</h1>
-<h3 align="center">I am currently a front-end development intern at Banco do Nordeste do Brasil (BNB)</h3>
+<h3 align="center">I am currently a Front-end Development Intern at Banco do Nordeste do Brasil (BNB)</h3>
 
 - 🔭 I’m currently working on **React Applications**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eduardo-jorge-andrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-jorge-andrade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eduardo-jorge-andrade-b08b8327b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-jorge-andrade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
